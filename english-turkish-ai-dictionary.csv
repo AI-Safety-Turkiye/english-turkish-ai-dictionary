@@ -1,0 +1,153 @@
+Kategori,İngilizce Teirm,Türkçe Çeviriler
+Temel Kavramlar,Frontier AI Model,öncü yapay zeka
+Temel Kavramlar,Advanced AI,gelişmiş yapay zekâ
+Temel Kavramlar,Artificial Intelligence (AI),yapay zekâ
+Temel Kavramlar,Machine Learning,makine öğrenmesi
+Temel Kavramlar,Neural Network,sinir ağı
+Temel Kavramlar,Algorithm,algoritma
+Temel Kavramlar,Data Science,veri bilimi
+Temel Kavramlar,Big Data,büyük veri
+Temel Kavramlar,Data Mining,veri madenciliği
+Temel Kavramlar,Feature,öznitelik
+Temel Kavramlar,Label,etiket
+Temel Kavramlar,Training Data,eğitim verisi
+Temel Kavramlar,Validation Data,doğrulama verisi
+Temel Kavramlar,Test Data,test verisi; sınama verisi
+Temel Kavramlar,Model (ML Model),model
+Temel Kavramlar,Supervised Learning,denetimli öğrenme; gözetimli öğrenme
+Temel Kavramlar,Unsupervised Learning,denetimsiz öğrenme; gözetimsiz öğrenme
+Temel Kavramlar,Semi-Supervised Learning,yarı denetimli öğrenme; kısmen denetimli öğrenme
+Temel Kavramlar,Reinforcement Learning,pekiştirmeli öğrenme
+Temel Kavramlar,Transfer Learning,aktarımlı öğrenme
+Temel Kavramlar,Overfitting,aşırı uyum
+Temel Kavramlar,Underfitting,yetersiz uyum; eksik öğrenme
+Temel Kavramlar,Generalization,genelleme
+Temel Kavramlar,Bias (in AI),önyargı; yanlılık; eğilim; meyil; sapma
+Temel Kavramlar,Bias-Variance Trade-off,önyargı-varyans dengesi
+Temel Kavramlar,Cross-Validation,çapraz doğrulama
+Temel Kavramlar,Decision Tree,karar ağacı
+Temel Kavramlar,Random Forest,Random Forest
+Temel Kavramlar,Support Vector Machine (SVM),destek vektör makinesi
+Temel Kavramlar,Regression,regresyon (analizi); bağıntı çözümlemesi
+Temel Kavramlar,Classification,sınıflandırma; tasnif
+Temel Kavramlar,Clustering,kümeleme; küme analizi
+Temel Kavramlar,Natural Language Processing (NLP),doğal dil işleme
+Temel Kavramlar,Computer Vision,bilgisayarlı görme; görüntü işleme
+Temel Kavramlar,Robotics,robotik
+Temel Kavramlar,Agent,ajan
+Temel Kavramlar,Knowledge Representation,bilgi temsili
+Temel Kavramlar,Chatbot,sohbet robotu
+Temel Kavramlar,Turing Test,Turing testi
+Temel Kavramlar,Narrow AI,dar yapay zekâ
+Temel Kavramlar,Artificial General Intelligence (AGI),genel yapay zekâ
+Temel Kavramlar,Artificial Superintelligence (ASI),süper yapay zekâ; üstün yapay zekâ
+Temel Kavramlar,Inference (Machine Learning),çıkarım; çıkarsama
+Temel Kavramlar,Gradient Descent,gradyan inişi
+Temel Kavramlar,Privacy (Data Privacy),veri mahremiyeti
+Temel Kavramlar,Security (AI Security),yapay zekâ güvenliği
+Derin Öğrenme,Deep Neural Network,derin yapay sinir ağı; derin sinir ağı
+Derin Öğrenme,Convolutional Neural Network (CNN),evrişimli sinir ağı; konvolüsyonel sinir ağı
+Derin Öğrenme,Recurrent Neural Network (RNN),yinelemeli sinir ağı; reküran sinir ağı
+Derin Öğrenme,Long Short-Term Memory (LSTM),uzun-kısa vadeli bellek; uzun-kısa süreli bellek
+Derin Öğrenme,Gated Recurrent Unit (GRU),geçitli tekrarlayan birim
+Derin Öğrenme,Transformer,Transformer; Transformatör
+Derin Öğrenme,Attention Mechanism,dikkat mekanizması
+Derin Öğrenme,Self-Attention,öz-dikkat
+Derin Öğrenme,Encoder,kodlayıcı; enkoder
+Derin Öğrenme,Decoder,kod çözücü; dekoder; çözücü
+Derin Öğrenme,Autoencoder,otomatik kodlayıcı; otomatik enkoder
+Derin Öğrenme,Variational Autoencoder (VAE),varyasyonel otomatik kodlayıcı/enkoder; çeşitlemeli otomatik kodlayıcı/enkoder
+Derin Öğrenme,Generative Adversarial Network (GAN),üretici çekişmeli ağ
+Derin Öğrenme,Generative Model,üretici model
+Derin Öğrenme,Diffusion Model,difüzyon modeli; yayılım modeli
+Derin Öğrenme,Backpropagation,geri yayılım
+Derin Öğrenme,Activation Function,aktivasyon fonksiyonu; etkinleştirme fonksiyonu
+Derin Öğrenme,ReLU,ReLU; doğrultulmuş doğrusal birim
+Derin Öğrenme,Loss Function,kayıp fonksiyonu
+Derin Öğrenme,Optimizer,optimize edici; optimizatör; eniyileştirici
+Derin Öğrenme,Stochastic Gradient Descent (SGD),stokastik gradyan inişi; rassal gradyan iniş
+Derin Öğrenme,Adam Optimizer,ADAM optimizatörü; ADAM eniyileştiricisi
+Derin Öğrenme,Learning Rate,öğrenme oranı
+Derin Öğrenme,Batch Size,yığın büyüklüğü; toplu işlem boyutu
+Derin Öğrenme,Epoch,epok; devir
+Derin Öğrenme,Dropout,seyreltme; bırakma; Nöron atlama; Dropout
+Derin Öğrenme,Batch Normalization,yığın normalleştirme
+Derin Öğrenme,Weight,ağırlık; katsayı
+Derin Öğrenme,Bias (Neural Network),eğilim
+Derin Öğrenme,Neural Architecture,sinir ağı mimarisi; sinir mimarisi
+Derin Öğrenme,Fine-Tuning,ince ayar (çekmek)
+Derin Öğrenme,Pretraining,ön eğitim
+Derin Öğrenme,Word Embedding,kelime vektörleştirme; kelime vektörizasyonu
+Derin Öğrenme,Contextual Embedding,bağlamsal vektörizasyon; bağlamsal vektörleştirme
+Derin Öğrenme,Early Stopping,erken durdurma; erken duraklama
+Büyük Dil Modelleri,Large Language Model (LLM),büyük dil modeli
+Büyük Dil Modelleri,Language Model,dil modeli
+Büyük Dil Modelleri,Generative Pre-trained Transformer (GPT),üretici ön eğitimli transformatör
+Büyük Dil Modelleri,Prompt,istem
+Büyük Dil Modelleri,Prompt Engineering,istem mühendisliği
+Büyük Dil Modelleri,Context Window,bağlam penceresi
+Büyük Dil Modelleri,Token,token
+Büyük Dil Modelleri,Instruction Tuning,talimat ince ayarı
+Büyük Dil Modelleri,Reinforcement Learning from Human Feedback (RLHF),insan geri bildirimli pekiştirmeli öğrenme; insan geri bildirimli pekiştirme
+Büyük Dil Modelleri,Zero-Shot Learning,sıfır örnekli öğrenme
+Büyük Dil Modelleri,Few-Shot Learning,az örnekli öğrenme
+Büyük Dil Modelleri,In-Context Learning,bağlam içi öğrenme
+Büyük Dil Modelleri,Hallucination (AI),halüsinasyon; sanrı
+Büyük Dil Modelleri,Toxicity (AI),Toksiklik; toksisite
+Büyük Dil Modelleri,Content Filtering,içerik filtreleme
+Büyük Dil Modelleri,Sampling (in Generation),örnekleme
+Büyük Dil Modelleri,Retrieval-Augmented Generation (RAG),erişim-destekli üretim
+Büyük Dil Modelleri,Vector Database,vektör veritabanı
+Büyük Dil Modelleri,Knowledge Cutoff,bilgi kesinti tarihi
+Büyük Dil Modelleri,Context Length,bağlam uzunluğu
+Büyük Dil Modelleri,Multi-turn Conversation,çok turlu sohbet
+Büyük Dil Modelleri,Encoder-Decoder Model,kodlayıcı-kod çözücü modeli; kodlayıcı-çözücü model; enkoder-dekoder model
+Büyük Dil Modelleri,Decoder-Only Model,salt çözücü model; salt dekoder model
+Büyük Dil Modelleri,Tokenization,tokenizasyon; tokenleştirme
+Yapay Zekâ Güvenliği & Etik,AI Safety,yapay zekâ güvenliği
+Yapay Zekâ Güvenliği & Etik,Ethical AI,etik yapay zekâ
+Yapay Zekâ Güvenliği & Etik,Algorithmic Bias,algoritmik önyargı; algoritmik yanlılık
+Yapay Zekâ Güvenliği & Etik,Fairness,adalet; hakkaniyet
+Yapay Zekâ Güvenliği & Etik,Transparency,şeffaflık
+Yapay Zekâ Güvenliği & Etik,Explainability,açıklanabilirlik; izah edilebilirlik
+Yapay Zekâ Güvenliği & Etik,Interpretability,yorumlanabilirlik
+Yapay Zekâ Güvenliği & Etik,Accountability,hesap verebilirlik
+Yapay Zekâ Güvenliği & Etik,Robustness,sağlamlık
+Yapay Zekâ Güvenliği & Etik,Adversarial Example,Çatışmacı örnek
+Yapay Zekâ Güvenliği & Etik,Adversarial Attack,Çatışmacı saldırı
+Yapay Zekâ Güvenliği & Etik,Data Poisoning,veri zehirleme; veri zehirlenmesi
+Yapay Zekâ Güvenliği & Etik,Differential Privacy,diferansiyel mahremiyet; fark ayrımlı mahremiyet; ayrımsal mahremiyet
+Yapay Zekâ Güvenliği & Etik,Federated Learning,federatif öğrenme; dağıtık öğrenme
+Yapay Zekâ Güvenliği & Etik,Bias Mitigation,önyargı azaltma; önyargı giderme
+Yapay Zekâ Güvenliği & Etik,Model Auditing,model denetimi; model teftişi
+Yapay Zekâ Güvenliği & Etik,Human-in-the-Loop,insanlı döngü; döngüde insan
+Yapay Zekâ Güvenliği & Etik,Autonomy,otonomi; özerklik
+Yapay Zekâ Güvenliği & Etik,Kill Switch,acil durdurma
+Yapay Zekâ Uyumlandırma (AI Alignment),AI Alignment,yapay zekâ uyumlandırma; yapay zekâ hizalama; yapay zekâyı hizaya getirme
+Yapay Zekâ Uyumlandırma (AI Alignment),Inner Alignment,iç uyum; iç hizalama
+Yapay Zekâ Uyumlandırma (AI Alignment),Outer Alignment,dış uyum; dış hizalama
+Yapay Zekâ Uyumlandırma (AI Alignment),Value Alignment,değer uyumu; değer hizalama
+Yapay Zekâ Uyumlandırma (AI Alignment),Goal Specification,hedef tanımlama; hedef spesifikasyonu
+Yapay Zekâ Uyumlandırma (AI Alignment),Reward Function,ödül fonksiyonu
+Yapay Zekâ Uyumlandırma (AI Alignment),Specification Gaming,şartname suistimali; spesifikasyon kurnazlığı
+Yapay Zekâ Uyumlandırma (AI Alignment),Existential Risk,varoluşsal risk; varoluş riski; mevcudiyet riski
+Yapay Zekâ Uyumlandırma (AI Alignment),Value Learning,değer öğrenimi; değer edinimi
+Diğer Teknik & Yönetişim Terimleri,Corrigibility,düzeltilebilirlik
+Diğer Teknik & Yönetişim Terimleri,Scalability,ölçeklenebilirlik
+Diğer Teknik & Yönetişim Terimleri,Safe Exploration,güvenli keşif
+Diğer Teknik & Yönetişim Terimleri,Out-of-distribution Generalization,dağılım dışı genelleme
+Diğer Teknik & Yönetişim Terimleri,Deceptive Alignment,aldatıcı uyum; aldatıcı hizalama
+Diğer Teknik & Yönetişim Terimleri,Instrumental Convergence,araçsal yakınsama
+Diğer Teknik & Yönetişim Terimleri,Mesa-Optimization / Mesa-Optimizer,alt düzey optimizasyon; alt düzen optimizasyonu
+Diğer Teknik & Yönetişim Terimleri,Capability Evaluation,beceri değerlendirmesi
+Diğer Teknik & Yönetişim Terimleri,Safety Benchmark,güvenlik kıstası; güvenlik karşılaştırması; güvenlik ölçütü
+Diğer Teknik & Yönetişim Terimleri,Red Teaming,kırmızı ekip testi; zafiyet analizi; saldırı simülasyonu
+Diğer Teknik & Yönetişim Terimleri,Gradient Hacking,gradyan hilesi
+Diğer Teknik & Yönetişim Terimleri,Inverse Reinforcement Learning,ters pekiştirmeli öğrenme
+Diğer Teknik & Yönetişim Terimleri,Catastrophic Risk,felaket riski
+Diğer Teknik & Yönetişim Terimleri,Misalignment,yanlış uyum
+Diğer Teknik & Yönetişim Terimleri,Takeoff Speed (Slow/Hard Takeoff),gelişim hızı; gelişim ivmesi
+Diğer Teknik & Yönetişim Terimleri,Differential Technological Development,farklılaştırılmış teknolojik gelişim
+Diğer Teknik & Yönetişim Terimleri,AI Governance,yapay zekâ yönetişimi
+Diğer Teknik & Yönetişim Terimleri,Race Dynamics,yarış dinamikleri; rekabet dinamikleri
+Diğer Teknik & Yönetişim Terimleri,Infohazard,enformasyon tehlikesi
