@@ -1,4 +1,4 @@
-# 🤖 Türkçe Gelişmiş Yapay Zeka Sözlüğü
+# 🤖 Türkçe Gelişmiş Yapay Zeka Sözlüğü 🇹🇷
 
 ## 📖 Proje Hakkında
 
