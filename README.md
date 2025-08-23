@@ -1,16 +1,16 @@
-# 🤖 Türkçe Gelişmiş Yapay Zeka Sözlüğü 🇹🇷
+# Türkçe Gelişmiş Yapay Zeka Sözlüğü
 
-## 📖 Proje Hakkında
+## Proje Hakkında
 
 Yapay zekâ ve yapay zekâ güvenliği alanındaki İngilizce terimlerin Türkçe karşılıklarını içeren kapsamlı bir sözlük. Bu projeyle, Türkiye'de yapay zekâ alanında ortak bir dil oluşturmayı ve bu alandaki bilgi paylaşımını kolaylaştırmayı hedefliyoruz.
 
-## 🎯 Amacımız
+## Amacımız
 
 Son yıllarda yapay zekâ, sadece teknoloji uzmanlarının değil, medyanın ve günlük sohbetlerin de vazgeçilmez konularından biri haline geldi. Ancak yapay zekâ hakkındaki çoğu terimin uygun ve yaygın karşılıkları mevcut değil.
 
 Bu eksikliği gidererek; yapay zekâ güvenliği çalışmaları için Türkçede ortak bir dil oluşturmayı, terimleri Türkçeleştirerek geniş halk kitleleri için daha erişilebilir kılmayı ve böylece Türkiye'deki yapay zekâ okur yazarlığını artırmayı hedefliyoruz.
 
-## 📊 İçerik
+## İçerik
 
 Sözlük an itibarıyla **152 terim** içermekte olup, aşağıdaki 6 ana kategoriye ayrılmıştır:
 
@@ -23,7 +23,7 @@ Sözlük an itibarıyla **152 terim** içermekte olup, aşağıdaki 6 ana katego
 | **Yapay Zekâ Uyumlandırma** | AI Alignment konuları |
 | **Diğer Teknik & Yönetişim** | Teknik ve yönetişim terimleri |
 
-## 🚀 Kullanım
+## Kullanım
 
 ### CSV Dosyası Yapısı
 
