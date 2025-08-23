@@ -67,6 +67,8 @@ Bu metodolojiyi sözlüğümüzün ilk taslağı için uyguladık. Gelecek sür�
 - Diğer gönüllülerden aldığımız geri bildirimleri değerlendirmeyi
 planlıyoruz.
 
+![Metodoloji Diyagramı](https://raw.githubusercontent.com/AI-Safety-Turkiye/english-turkish-ai-dictionary/abef07877820bea9057cf3e12f00dc0bc6167d1f/metodoloji.png)
+
 ## 🤝 Katkıda Bulunma
 
 Projeye katkılarınızı bekliyoruz! 
