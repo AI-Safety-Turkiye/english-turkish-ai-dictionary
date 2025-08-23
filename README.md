@@ -122,4 +122,4 @@ Eğer bu projemizi beğendiyseniz, ⭐ vererek destek olabilirsiniz!
 
 ---
 
-*Not: Bu sözlük sürekli henüz geliştirilme aşamasındadır. Görüş ve önerilerinizi bekliyoruz!*
+*Not: Bu sözlük henüz geliştirilme aşamasındadır. Görüş ve önerilerinizi bekliyoruz!*
