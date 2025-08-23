@@ -16,10 +16,10 @@ Sözlük an itibarıyla **152 terim** içermekte olup, aşağıdaki 6 ana katego
 
 | Kategori | Açıklama |
 |----------|----------|
-| **Temel Kavramlar** | Yapay zeka alanının temel terminolojisi |
+| **Temel Kavramlar** | Yapay zekâ alanının temel terminolojisi |
 | **Derin Öğrenme** | Derin öğrenme mimarisi ve teknikleri |
 | **Büyük Dil Modelleri** | Büyük dil modelleri (LLM) ve ilgili kavramlar |
-| **Yapay Zekâ Güvenliği & Etik** | AI güvenliği, etik ve risk yönetimi |
+| **Yapay Zekâ Güvenliği & Etik** | YZ güvenliği, etik ve risk yönetimi |
 | **Yapay Zekâ Uyumlandırma** | YZ Uyumlandırması (Alignment) konuları |
 | **Diğer Teknik & Yönetişim** | Teknik ve yönetişim terimleri |
 
