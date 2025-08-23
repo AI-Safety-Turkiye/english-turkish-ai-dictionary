@@ -94,7 +94,7 @@ Projeye katkılarınızı bekliyoruz!
 
 ## 📄 Lisans
 
-Bu proje [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) altında lisanslanmıştır.
+Bu proje [Creative Commons Attribution 4.0 International License]([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/deed.tr)) altında lisanslanmıştır.
 
 Bu lisans şu özgürlükleri sağlar:
 - **Paylaşma** — Materyali herhangi bir ortamda veya formatta kopyalayabilir ve yeniden dağıtabilirsiniz
